@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://seedsigner.com/">
-    <img alt="Docker_SeedSigner_OS" src="img/logo.png" width="90"/>
+    <img alt="Docker_SeedSigner_OS" src="img/logo.png" width="250"/>
   </a>
 </p>
 <h1 align="center">Docker SeedSigner OS</h1>
